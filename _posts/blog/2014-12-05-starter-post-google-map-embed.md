@@ -2,12 +2,12 @@
 layout: post
 author: Manav Sehgal
 category: theme
-title: Starter Post - Google Maps Embed
+title: Starter Post2 - Google Maps Embed
 tags: maps embeds
 image: /img/embed/map.png
 ---
 
-You can embed Google maps using custom embed created for OpenTheme. 
+You can REALLY embed Google maps using custom embed created for OpenTheme. 
 
 Just provide the location in url escaped format. Specify custom height for the map viewer, otherwise site default is taken.
 
